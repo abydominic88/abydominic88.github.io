@@ -1,0 +1,232 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*@media screen and (min-device-width: 768px) and (max-device-width: 1366px) { 
+	.forground{
+	width:5464px;
+	}
+	.forground img{
+	width:100%;
+	}
+	.middle{
+	width:4800px;
+	bottom:-18%;
+	}
+	
+	.rear{
+	width:3000px;
+	bottom: -35%;
+	}
+	.about{
+		font-size:25px;
+	}
+	
+	.color_blue{
+		font-size:30px;
+	}
+	
+	.scooter{
+	top:45%;
+	}
+	.scooter img{
+	width:70%;
+	}
+	
+	.cover{
+	width:5464px;
+	}
+	.cover img#bridge{
+	margin-left: 1777px !important;
+    width: 10.9%; 
+	}
+	
+	.intro{
+		left:4%;
+		top:20%;
+	}
+	.about{
+	left:10%;
+	width:700px;
+	}
+	.enjoy{
+	left:15%;
+	top:40%;
+	}
+	
+	.portfoliopanel{
+		left:50.5%;
+	}
+	
+	.postcard{
+		top:35%;
+		right:6.2%;
+	}
+}*/
+
+@media screen and (max-width: 1366px) { 
+	.forground{
+	width:6600px;
+	}
+	.forground img{
+	width:100%;
+	}
+	.middle{
+	width:5000px;
+	bottom:-18%;
+	}
+	
+	.rear{
+	width:3000px;
+	bottom: -35%;
+	}
+
+	.color_blue{
+		font-size:30px;
+	}
+	
+	.scooter{
+	top:45%;
+	}
+	.scooter img{
+	width:70%;
+	}
+	
+	.cover{
+	width:6600px;
+	}
+	.cover img#bridge{
+	margin-left: 1717px !important;
+    width: 8.70%; 
+	}
+	
+	.intro{
+		left:3%;
+		top:20%;
+	}
+	.about{
+	left:7%;
+	width:700px;
+	font-size:25px;
+	color:#78c3d6 !important;
+	}
+	.enjoy{
+	left:12%;
+	top:40%;
+	}
+
+	.tip{
+		bottom:1%;
+	}
+	
+	.bestview{
+		bottom:1%;
+	}
+
+	.portfoliopanel{
+		left:37.5%;
+	}
+
+	.topbar {
+	position: relative;
+	padding: 20px 0;
+	margin: 0 0 10px !important;
+}
+
+	.xpbase{
+		right:27.5%;
+		top:37%;
+	}
+	
+	.postcard{
+		top:37%;
+		right:4.6%;
+	}
+
+	.portfolio_btn{
+		border: 5px solid #70C3D6;
+		color:#70C3D6;
+	}
+
+	.xp_btn{
+		border:5px solid #70C3D6;
+		color:#70C3D6;
+	}
+
+	.postcard_btn{
+		border:5px solid #70C3D6;
+		color: #70C3D6;
+	}
+}
+
+@media screen and (max-width:1280px){
+	.scooter{
+		top:65%;
+	}
+
+	body{
+		background-color:#9FECFF;
+	}
+	
+}
+
+@media screen and (max-width:1024px){
+	.scooter{
+		top:55%;
+	}
+}
+
+
+@media screen and (max-width:980px){
+	.scooter{
+		top:75%;
+	}
+
+	body{
+		background-color:#9FECFF;
+	}
+
+	.intro{
+		left:1%;
+	}
+
+	.about{
+		width:665px;
+		left:5%;
+	}
+
+	.enjoy{
+		left:8%;
+	}
+}
+
+
+
+@media screen and (max-width: 768px) { 
+	.scooter{
+		top:65%;
+	}
+
+	.intro{
+		left:0%;
+		width:190px;
+		height:190px;
+		background-size: cover;
+	}
+
+	.about{
+		left:3.2%;
+		width:530px;
+	}
+
+	.middle{
+		bottom:-12%;
+	}
+
+	.rear{
+		bottom:-20%;
+	}
+
+}
+
+
+
