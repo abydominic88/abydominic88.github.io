@@ -156,6 +156,10 @@
 		border:5px solid #70C3D6;
 		color: #70C3D6;
 	}
+
+	.social_placement{
+		margin-top:60px;
+	}
 }
 
 @media screen and (max-width:1280px){
@@ -197,6 +201,12 @@
 	.enjoy{
 		left:8%;
 	}
+
+	.comp_issue{
+		display:block;
+	}
+
+	
 }
 
 
@@ -224,6 +234,10 @@
 
 	.rear{
 		bottom:-20%;
+	}
+
+	.comp_issue{
+		display:block;
 	}
 
 }

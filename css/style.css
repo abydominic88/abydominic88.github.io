@@ -524,6 +524,21 @@ span.about a{
     left: 5100px;
 }
 
+
+.comp_issue{
+    width:100%;
+    background-color: #B6C345;
+    color:#fff;
+    font-size: 80px;
+    text-align: center;
+    display:none;
+    position: fixed;
+    z-index: 1000000;
+    height: 100%;
+    padding-top:18%;
+    font-family: 'Amatic SC', cursive;
+}
+
 .music_note{
     color: #fff;
     display: block;
