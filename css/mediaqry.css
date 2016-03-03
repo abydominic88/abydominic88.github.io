@@ -160,6 +160,10 @@
 	.social_placement{
 		margin-top:60px;
 	}
+
+	.back_btn{
+		bottom:22%;
+	}
 }
 
 @media screen and (max-width:1280px){

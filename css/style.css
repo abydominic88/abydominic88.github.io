@@ -702,3 +702,26 @@ span.about a{
     width: 223px;
 }
 	 /*preloader ends*/
+
+
+/*thankyou page style*/
+
+.thankyou{
+   width:100%;
+   /*background-image: url("../images/thankyou.jpg");*/
+   height:100%;
+   position: absolute;
+   margin: 0px auto;
+   overflow: hidden;
+} 
+
+.back_btn{
+    background-image: url("../images/backbtn.png");
+    bottom: 23%;
+    height: 113px;
+    left: 8%;
+    position: absolute;
+    width: 97px;
+}
+
+/*thankyou page style end*/
